@@ -1,0 +1,31 @@
+.backmain{
+    float:right;
+  }
+  
+  .button,.button1{
+    width: 100%;
+      border-radius : 15px;
+      padding: 7px;
+      border: none;
+      background: #ccbca2; 
+      font-size: 16px;
+      font-weight: 400;
+      color: #fff;
+  }
+  
+  .button:hover{
+    background: #d33b33; 
+  }
+  
+  .button:active{
+    background: #c3b092; 
+  }
+  
+  
+  .button1:hover{
+    background: #d33b33; 
+  }
+  
+  .button1:active{
+    background: #c3b092; 
+  }
